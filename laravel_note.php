@@ -29,6 +29,8 @@
  *  Cấu hình CSDL trước r mới chạy đc migrate: cấu hình trong file .env
  *  Chay lệnh sau để migrate các file: php artisan migrate
  * - Bắt đầu code CRUD cho sản phẩm:
+ * + Code chức năng thêm mới
+ * Code route để tạo ra url
  *
  *
  *
